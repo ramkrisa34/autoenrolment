@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 08 14:47:07 GMT 2011
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven\:maven-project\:pom\:${mavenVersion} from/to central (http\://repo1.maven.org/maven2)\: IllegalArgumentException
+1104ee55d70758fffe124b66414254580a07c382@friendslife\:8080>default-http\://repo1.maven.org/maven2/.lastUpdated=1320763627242
